@@ -2,11 +2,15 @@
   "name": "gatsby-hubspotv3-posts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "hubspot"
+  ],
+  "author": "Cristian Fonseca",
+  "dependencies": {
+    "gatsby": ">=2"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC"
 }
